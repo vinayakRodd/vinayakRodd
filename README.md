@@ -2,7 +2,7 @@
 
 # Hi there, I'm Vinayak Rodd 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=550&lines=Backend+%26+Distributed+Systems+Engineer;Go+%26+C%2B%2B+Developer;Asynchronous+Pipelines+%26+Concurrency;Creator+of+NoteGo+(6k%2B+Students))](https://github.com/vinayakRodd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=550&lines=Backend+%26+Distributed+Systems+Engineer;Go+%26+C%2B%2B+Developer;Asynchronous+Pipelines+%26+Concurrency;Creator+of+NoteGo+%286k%2B+Students%29)](https://github.com/vinayakRodd)
 
 <br/>
 
