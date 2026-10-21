@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Vinayak Rodd 👋
+# Vinayak Rodd
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=550&lines=Backend+%26+Distributed+Systems+Engineer;Go+%26+C%2B%2B+Developer;Asynchronous+Pipelines+%26+Concurrency;Creator+of+NoteGo+%286k%2B+Students%29)](https://github.com/vinayakRodd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Backend+%26+Distributed+Systems+Engineer;Go+%26+C%2B%2B+Developer;Asynchronous+Pipelines+%26+Concurrency;Creator+of+NoteGo+%286k%2B+Students%29)](https://github.com/vinayakRodd)
 
 <br/>
 
@@ -15,18 +15,18 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About
 
-I am a **Computer Science and Engineering** undergraduate at **B.M.S. College of Engineering, Bengaluru** (CGPA: 8.69/10, Class of 2027) with a deep interest in **backend architecture**, **systems engineering**, **concurrency**, and **database optimization**.
+I am a **Computer Science and Engineering** undergraduate at **B.M.S. College of Engineering, Bengaluru** (Class of 2027) with a deep interest in **backend architecture**, **systems engineering**, **concurrency**, and **database optimization**.
 
-- 🏢 **Industry Experience:** Built reusable asynchronous job and concurrency frameworks in **Go** at **TapInvest**, developed machine learning network security firewalls at **Samsung PRISM**, and optimized core caching/database performance at **TakeUforward**.
-- 🛠️ **Systems & Backend:** Passionate about low-latency services, Goroutine worker pools, layered architectural patterns, caching strategies, and robust distributed systems.
-- 🚀 **Product Impact:** Creator of [NoteGo](https://notego.in), an academic resources platform actively serving **6,000+ students**, and [XeroClic](https://github.com/vinayakRodd/PrintPro-Backend), a high-concurrency printing marketplace with automated desktop agent sync.
-- 🎯 **Algorithmic Problem Solving:** Regularly sharpening algorithmic and low-level programming skills in **C++** and **Go** across LeetCode and CSES.
+- **Industry Experience:** Built reusable asynchronous job and concurrency frameworks in **Go** at **TapInvest**, developed machine learning network security firewalls at **Samsung PRISM**, and optimized core caching/database performance at **TakeUforward**.
+- **Systems & Architecture:** Focused on low-latency services, Goroutine worker pools, layered architectural patterns, caching strategies, and robust distributed systems.
+- **Product Impact:** Creator of [NoteGo](https://notego.in), an academic resources platform actively serving **6,000+ students**, and [XeroClic](https://github.com/vinayakRodd/PrintPro-Backend), a high-concurrency printing marketplace with automated desktop agent synchronization.
+- **Problem Solving:** Regularly sharpening algorithmic and low-level programming skills in **C++** and **Go** across LeetCode and CSES.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **Backend Engineering Intern** • [TapInvest](https://tapinvest.in)
 *Bengaluru, India • Jul 2026 – Sep 2026*
@@ -47,9 +47,9 @@ I am a **Computer Science and Engineering** undergraduate at **B.M.S. College of
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Projects
 
-### 🔹 [XeroClic (PrintPro Backend)](https://github.com/vinayakRodd/PrintPro-Backend)
+### [XeroClic — Two-Sided Printing Marketplace](https://github.com/vinayakRodd/PrintPro-Backend)
 > **Stack:** Go • PostgreSQL • Redis • WebSockets • Next.js
 
 A high-concurrency two-sided printing marketplace enabling customers to upload documents, customize print specifications, and pay per job while local print shops receive, queue, and print jobs in real time.
@@ -57,21 +57,21 @@ A high-concurrency two-sided printing marketplace enabling customers to upload d
 - **Security & Access Control:** Implemented JWT refresh token rotation, Google OAuth, OTP verification, token-bucket rate limiting, and granular role-based access control (RBAC).
 - **Real-Time Desktop Agent:** Developed a cross-platform desktop daemon that synchronizes local shop hardware and streams print job statuses via persistent WebSockets.
 
-### 🔹 [NoteGo — Academic Resources Platform](https://notego.in)
+### [NoteGo — Academic Resource Platform](https://notego.in)
 > **Stack:** MongoDB • Express.js • React.js • Node.js (MERN) | **Live:** [notego.in](https://notego.in) | **Code:** [Backend](https://github.com/vinayakRodd/NG-Backend) • [Frontend](https://github.com/vinayakRodd/NG-Frontend)
 
 A full-stack academic repository digitizing university lecture notes, study materials, and previous year papers, actively adopted by **6,000+ students**.
 - **RESTful API Engineering:** Engineered scalable Express.js endpoints handling search, categorized document retrieval, and uploads with robust input validation.
 - **Structured Schema Design:** Designed an optimized MongoDB data model categorizing resources hierarchically by branch, semester, and subject for fast query execution.
 
-### 🔹 [Desktop IDE & Remote Execution Engine](https://github.com/vinayakRodd/Desktop-IDE-Backend)
+### [Desktop IDE & Execution Engine](https://github.com/vinayakRodd/Desktop-IDE-Backend)
 > **Stack:** Go • TypeScript • Electron • Judge0 | **Code:** [Backend](https://github.com/vinayakRodd/Desktop-IDE-Backend) • [Frontend](https://github.com/vinayakRodd/Desktop-IDE)
 
 A modern desktop development environment paired with an isolated code execution daemon and AI-assisted debugging.
 - **Process Orchestration:** Engineered a Go backend managing multi-language code compilation and runtime execution with process lifecycle supervision and timeout boundaries.
 - **Sandboxed Execution:** Integrated Judge0 APIs and local fallback executors to run user code safely with structured stdin/stdout/stderr streaming.
 
-### 🔹 [Systems & Algorithmic Problem Solving](https://github.com/vinayakRodd/CompetitiveProgramming)
+### [Systems & Algorithmic Problem Solving](https://github.com/vinayakRodd/CompetitiveProgramming)
 > **Stack:** C++ • C • Data Structures & Algorithms • OS Internals | **Code:** [Competitive Programming](https://github.com/vinayakRodd/CompetitiveProgramming) • [CSES Solutions](https://github.com/vinayakRodd/CSESProblems) • [OS Programs](https://github.com/vinayakRodd/OSPROGRAMS)
 
 - Rigorous implementations of graph algorithms, dynamic programming, tree traversals, and bit manipulation.
@@ -79,7 +79,7 @@ A modern desktop development environment paired with an isolated code execution 
 
 ---
 
-## 🛠️ Tech Stack & Proficiencies
+## Technical Stack
 
 <div align="center">
 
@@ -110,21 +110,21 @@ A modern desktop development environment paired with an isolated code execution 
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayakRodd&show_icons=true&theme=tokyonight&border_radius=8" alt="Vinayak's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakRodd&layout=compact&theme=tokyonight&hide=html,css&border_radius=8" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayakRodd&show_icons=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=8" alt="Vinayak's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakRodd&layout=compact&hide=html,css&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&border_radius=8" alt="Top Languages" height="175" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=vinayakRodd&theme=tokyonight&border_radius=8" alt="GitHub Streak" width="495" />
+  <img src="https://streak-stats.demolab.com/?user=vinayakRodd&background=161b22&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="GitHub Streak" width="495" />
 </div>
 
 <br/>
 
-### 🐍 Contribution Activity
+### Contribution Graph
 
 <div align="center">
   <picture>
@@ -136,7 +136,7 @@ A modern desktop development environment paired with an isolated code execution 
 
 ---
 
-## 📬 Let's Connect
+## Connect
 
 <div align="center">
 
