@@ -122,18 +122,6 @@ A modern desktop development environment paired with an isolated code execution 
   <img src="https://streak-stats.demolab.com/?user=vinayakRodd&background=161b22&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="GitHub Streak" width="495" />
 </div>
 
-<br/>
-
-### Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayakRodd/vinayakRodd/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayakRodd/vinayakRodd/output/github-contribution-grid-snake.svg">
-    <img alt="Vinayak's Contribution Snake" src="https://raw.githubusercontent.com/vinayakRodd/vinayakRodd/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
 ---
 
 ## Connect
