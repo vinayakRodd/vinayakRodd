@@ -2,7 +2,7 @@
 
 # Vinayak Rodd
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Backend+%26+Distributed+Systems+Engineer;Go+%26+C%2B%2B+Developer;Asynchronous+Pipelines+%26+Concurrency;Creator+of+NoteGo+%286k%2B+Students%29)](https://github.com/vinayakRodd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Backend+%26+Distributed+Systems+Engineer;Go+%26+C%2B%2B+Developer;Asynchronous+Pipelines+%26+Concurrency;Creator+of+NoteGo+%287k%2B+Students%29)](https://github.com/vinayakRodd)
 
 <br/>
 
@@ -21,7 +21,7 @@ I am a **Computer Science and Engineering** undergraduate at **B.M.S. College of
 
 - **Industry Experience:** Built reusable asynchronous job and concurrency frameworks in **Go** at **TapInvest**, developed machine learning network security firewalls at **Samsung PRISM**, and optimized core caching/database performance at **TakeUforward**.
 - **Systems & Architecture:** Focused on low-latency services, Goroutine worker pools, layered architectural patterns, caching strategies, and robust distributed systems.
-- **Product Impact:** Creator of [NoteGo](https://notego.in), an academic resources platform actively serving **6,000+ students**, and [XeroClic](https://github.com/vinayakRodd/PrintPro-Backend), a high-concurrency printing marketplace with automated desktop agent synchronization.
+- **Product Impact:** Creator of [NoteGo](https://notego.in), an academic resources platform actively serving **7,000+ students**, and [XeroClic](https://github.com/vinayakRodd/PrintPro-Backend), a high-concurrency printing marketplace with automated desktop agent synchronization.
 - **Problem Solving:** Regularly sharpening algorithmic and low-level programming skills in **C++** and **Go** across LeetCode and CSES.
 
 ---
@@ -60,7 +60,7 @@ A high-concurrency two-sided printing marketplace enabling customers to upload d
 ### [NoteGo — Academic Resource Platform](https://notego.in)
 > **Stack:** MongoDB • Express.js • React.js • Node.js (MERN) | **Live:** [notego.in](https://notego.in) | **Code:** [Backend](https://github.com/vinayakRodd/NG-Backend) • [Frontend](https://github.com/vinayakRodd/NG-Frontend)
 
-A full-stack academic repository digitizing university lecture notes, study materials, and previous year papers, actively adopted by **6,000+ students**.
+A full-stack academic repository digitizing university lecture notes, study materials, and previous year papers, actively adopted by **7,000+ students**.
 - **RESTful API Engineering:** Engineered scalable Express.js endpoints handling search, categorized document retrieval, and uploads with robust input validation.
 - **Structured Schema Design:** Designed an optimized MongoDB data model categorizing resources hierarchically by branch, semester, and subject for fast query execution.
 
