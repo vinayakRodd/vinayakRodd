@@ -71,11 +71,19 @@ A modern desktop development environment paired with an isolated code execution 
 - **Process Orchestration:** Engineered a Go backend managing multi-language code compilation and runtime execution with process lifecycle supervision and timeout boundaries.
 - **Sandboxed Execution:** Integrated Judge0 APIs and local fallback executors to run user code safely with structured stdin/stdout/stderr streaming.
 
-### [Systems & Algorithmic Problem Solving](https://github.com/vinayakRodd/CompetitiveProgramming)
-> **Stack:** C++ • C • Data Structures & Algorithms • OS Internals | **Code:** [Competitive Programming](https://github.com/vinayakRodd/CompetitiveProgramming) • [CSES Solutions](https://github.com/vinayakRodd/CSESProblems) • [OS Programs](https://github.com/vinayakRodd/OSPROGRAMS)
+### [Program Tracer Studio — Kernel Syscall & OS Subsystem Tracer](https://github.com/vinayakRodd/program_tracer)
+> **Stack:** Go • Linux ptrace • OS Internals • Systems Programming • ANSI Terminal TUI
+
+An interactive terminal-based execution tracer intercepting Linux kernel system calls in real time and classifying interactions across operating system subsystems.
+- **Kernel Syscall Interception:** Leveraged Linux `ptrace` (`PTRACE_TRACEME`, `PTRACE_O_TRACESYSGOOD`) to intercept `sys_enter` and `sys_exit` events without root privileges, measuring microsecond execution durations in kernel space.
+- **Subsystem Classification & Memory Peeking:** Categorized 380+ Linux syscalls into 5 core subsystems (VFS, Network Stack, MMU, Scheduler, Security) while peeking process virtual memory (`syscall.PtracePeekData`) to decode file paths, socket IPs, and track open file descriptors.
+- **Time-Travel Terminal UI:** Engineered an interactive multi-lane sequence diagram in terminal raw mode supporting single-stepping, time-travel rewind, adjustable-speed auto playback, and dynamic loader boilerplate filtering.
+
+### [Algorithmic Problem Solving & Competitive Programming](https://github.com/vinayakRodd/CompetitiveProgramming)
+> **Stack:** C++ • C • Data Structures & Algorithms | **Code:** [Competitive Programming](https://github.com/vinayakRodd/CompetitiveProgramming) • [CSES Solutions](https://github.com/vinayakRodd/CSESProblems)
 
 - Rigorous implementations of graph algorithms, dynamic programming, tree traversals, and bit manipulation.
-- Implementations of operating systems primitives including process scheduling algorithms, inter-process communication (IPC), and memory management in C.
+- Solutions to competitive programming problems across CSES Problem Set and Codeforces platforms.
 
 ---
 
