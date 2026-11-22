@@ -41,7 +41,7 @@ I am a **Computer Science and Engineering** undergraduate at **B.M.S. College of
 - Optimized model inference for low-latency execution directly within the network security data path.
 
 ### **Software Development Engineer (SDE) Intern** • [TakeUforward](https://takeuforward.org)
-*Remote • Jul 2025 – Oct 2025*
+*Remote • Jul 2025 – December 2025*
 - Implemented robust distributed caching strategies for key portal features including **Hall of Fame** and **Premium Problems**, substantially cutting data retrieval latency.
 - Executed database query optimization and scaling techniques to maintain low query response times under rapidly expanding active user traffic.
 
